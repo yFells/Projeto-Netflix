@@ -158,3 +158,23 @@ header nav a:hover{
 .continuacao .botao{
     padding: 15px 50px;
 }
+
+.botaoCategoria{
+    background-color:rgba(0,0,0,.50);
+    border: none;
+    color: white;
+    
+
+    width: 236px;
+    height: 132px;  
+    
+    
+    font-size: 20px;
+
+    cursor:pointer;
+    transition: .3s ease all
+}
+.botaoCategoria:hover{
+    background-color: white;
+    color: black;
+}
